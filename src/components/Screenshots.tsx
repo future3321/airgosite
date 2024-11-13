@@ -8,7 +8,7 @@ const Screenshots = () => {
     {
       title: t('screenshots.classic'),
       description: t('screenshots.classicDesc'),
-      image: "https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/400x800bb_%E5%89%AF%E6%9C%AC.png"
+      image: "https://raw.githubusercontent.com/future3321/airgosite/refs/heads/main/images/screenshot1.png"
     },
     {
       title: t('screenshots.timed'),
