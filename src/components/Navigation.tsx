@@ -13,7 +13,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <img src="https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/logo.png" alt="Air Basketball" className="h-10 w-10" />
+              <img src="https://gitee.com/airgotech/image_storage/raw/master/logo.png" alt="Air Basketball" className="h-10 w-10" />
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
@@ -86,7 +86,7 @@ const Navigation = () => {
               {t('nav.screenshots')}
             </a>
             <a
-              href="#"
+              href="https://apps.apple.com/cn/app/%E7%A9%BA%E6%B0%94%E6%8A%95%E7%AF%AE/id1625289361"
               className="text-gray-600 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
             >
               {t('nav.download')}
