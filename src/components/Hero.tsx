@@ -18,7 +18,7 @@ const Hero = () => {
 
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8">
         <div className="flex justify-center mb-8">
-          <img src="https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/logo1.png" alt="Air Basketball" className="w-24 h-22" />
+          <img src="https://gitee.com/airgotech/image_storage/raw/master/logo1.png" alt="Air Basketball" className="w-24 h-22" />
         </div>
         <h1 className="text-5xl sm:text-7xl font-bold tracking-tight mb-8 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600">
           {t('hero.title')}
