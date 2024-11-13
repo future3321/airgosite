@@ -8,17 +8,17 @@ const Screenshots = () => {
     {
       title: t('screenshots.classic'),
       description: t('screenshots.classicDesc'),
-      image: "https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/400x800bb_%E5%89%AF%E6%9C%AC.png"
+      image: "https://gitee.com/airgotech/image_storage/raw/master/screenshots1.png"
     },
     {
       title: t('screenshots.timed'),
       description: t('screenshots.timedDesc'),
-      image: "https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/400x800bb%20(1).png"
+      image: "https://gitee.com/airgotech/image_storage/raw/master/screenshots2.png"
     },
     {
       title: t('screenshots.challenge'),
       description: t('screenshots.challengeDesc'),
-      image: "https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/400x800bb%20(2).png"
+      image: "https://gitee.com/airgotech/image_storage/raw/master/screenshots3.png"
     }
   ];
 
