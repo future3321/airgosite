@@ -13,12 +13,12 @@ const Hero = () => {
           alt="Basketball Court"
           className="w-full h-full object-cover opacity-5"
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-white to-white/50"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-white to-white/90"></div>
       </div>
 
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8">
         <div className="flex justify-center mb-8">
-          <img src="https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/logo.png" alt="Air Basketball" className="w-24 h-24" />
+          <img src="https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/logo1.png" alt="Air Basketball" className="w-24 h-22" />
         </div>
         <h1 className="text-5xl sm:text-7xl font-bold tracking-tight mb-8 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600">
           {t('hero.title')}
