@@ -13,7 +13,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <img src="https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/logo.png" alt="Air Basketball" className="h-10 w-10" />
+              <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/24/01/8e240135-285c-ae27-405d-16bc8d8724fe/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="Air Basketball" className="h-10 w-10" />
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
