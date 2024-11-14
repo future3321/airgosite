@@ -8,17 +8,17 @@ const Screenshots = () => {
     {
       title: t('screenshots.classic'),
       description: t('screenshots.classicDesc'),
-      image: "https://raw.githubusercontent.com/future3321/airgosite/refs/heads/main/images/screenshot1.png"
+      image: "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/0a/22/7e0a2268-0296-fcde-e6d3-f6b5b19c8b34/6e532b15-e30a-4404-b88a-56bef362ccf0_1.png/460x0w.webp"
     },
     {
       title: t('screenshots.timed'),
       description: t('screenshots.timedDesc'),
-      image: "https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/400x800bb%20(1).png"
+      image: "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/f2/56/b5f256f1-35e1-c5de-0723-e0108b26310d/a6d7a382-b3f0-4dbb-9db2-ec83affb7639_6.5-3_2.png/460x0w.webpp"
     },
     {
       title: t('screenshots.challenge'),
       description: t('screenshots.challengeDesc'),
-      image: "https://raw.githubusercontent.com/future3321/WEBIMAGES/refs/heads/main/400x800bb%20(2).png"
+      image: "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/df/bd/40dfbde9-08ec-3550-90f9-4d2feb8fcf15/db303137-ec18-4e44-9787-ef003bbcdc95_2.png/460x0w.webp"
     }
   ];
 
