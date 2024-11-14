@@ -13,7 +13,7 @@ const Screenshots = () => {
     {
       title: t('screenshots.timed'),
       description: t('screenshots.timedDesc'),
-      image: "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/f2/56/b5f256f1-35e1-c5de-0723-e0108b26310d/a6d7a382-b3f0-4dbb-9db2-ec83affb7639_6.5-3_2.png/460x0w.webpp"
+      image: "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/f2/56/b5f256f1-35e1-c5de-0723-e0108b26310d/a6d7a382-b3f0-4dbb-9db2-ec83affb7639_6.5-3_2.png/460x0w.webp"
     },
     {
       title: t('screenshots.challenge'),
